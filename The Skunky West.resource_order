@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Title","order":1,"path":"folders/Sprites/Title.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object1","order":1,"path":"objects/Object1/Object1.yy",},
+    {"name":"Title","order":1,"path":"sprites/Title/Title.yy",},
+  ],
+}
