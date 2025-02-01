@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Buttons","order":2,"path":"folders/Sprites/Buttons.yy",},
     {"name":"Title","order":1,"path":"folders/Sprites/Title.yy",},
   ],
   "ResourceOrderSettings":[
