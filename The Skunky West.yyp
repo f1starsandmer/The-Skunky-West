@@ -37,8 +37,12 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"menu","path":"rooms/menu/menu.yy",},},
-    {"id":{"name":"GreenButton","path":"sprites/GreenButton/GreenButton.yy",},},
+    {"id":{"name":"Spr_CreditsButton","path":"sprites/Spr_CreditsButton/Spr_CreditsButton.yy",},},
+    {"id":{"name":"Spr_ExitButton","path":"sprites/Spr_ExitButton/Spr_ExitButton.yy",},},
+    {"id":{"name":"Spr_HelpButton","path":"sprites/Spr_HelpButton/Spr_HelpButton.yy",},},
+    {"id":{"name":"Spr_PlayButton","path":"sprites/Spr_PlayButton/Spr_PlayButton.yy",},},
     {"id":{"name":"Title_Screen_Background","path":"sprites/Title_Screen_Background/Title_Screen_Background.yy",},},
     {"id":{"name":"Title","path":"sprites/Title/Title.yy",},},
   ],
@@ -46,6 +50,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
+    {"children":[
+        {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
+      ],"groupName":"Levels",},
   ],
   "templateType":null,
   "TextureGroups":[
