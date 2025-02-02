@@ -1,14 +1,19 @@
 {
   "FolderOrderSettings":[
-    {"name":"Buttons","order":2,"path":"folders/Sprites/Buttons.yy",},
+    {"name":"Menu","order":1,"path":"folders/Objects/Menu.yy",},
     {"name":"Title","order":1,"path":"folders/Sprites/Title.yy",},
+    {"name":"Buttons","order":6,"path":"folders/Sprites/Title/Buttons.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Obj_CreditsButton","order":3,"path":"objects/Obj_CreditsButton/Obj_CreditsButton.yy",},
+    {"name":"Obj_Exit_Button","order":4,"path":"objects/Obj_Exit_Button/Obj_Exit_Button.yy",},
+    {"name":"Obj_HelpButton","order":2,"path":"objects/Obj_HelpButton/Obj_HelpButton.yy",},
+    {"name":"Obj_PlayButton","order":1,"path":"objects/Obj_PlayButton/Obj_PlayButton.yy",},
     {"name":"Object1","order":1,"path":"objects/Object1/Object1.yy",},
     {"name":"Level1","order":1,"path":"rooms/Level1/Level1.yy",},
     {"name":"Spr_CreditsButton","order":4,"path":"sprites/Spr_CreditsButton/Spr_CreditsButton.yy",},
-    {"name":"Spr_ExitButton","order":3,"path":"sprites/Spr_ExitButton/Spr_ExitButton.yy",},
-    {"name":"Spr_HelpButton","order":1,"path":"sprites/Spr_HelpButton/Spr_HelpButton.yy",},
+    {"name":"Spr_ExitButton","order":5,"path":"sprites/Spr_ExitButton/Spr_ExitButton.yy",},
+    {"name":"Spr_HelpButton","order":3,"path":"sprites/Spr_HelpButton/Spr_HelpButton.yy",},
     {"name":"Spr_PlayButton","order":2,"path":"sprites/Spr_PlayButton/Spr_PlayButton.yy",},
     {"name":"Title","order":1,"path":"sprites/Title/Title.yy",},
   ],
