@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_HelpButton",
+  "%Name":"obj_helpmenu_close",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_HelpButton",
+  "name":"obj_helpmenu_close",
   "overriddenProperties":[],
   "parent":{
     "name":"Menu",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_HelpButton",
-    "path":"sprites/Spr_HelpButton/Spr_HelpButton.yy",
+    "name":"spr_helpmenu_exit",
+    "path":"sprites/spr_helpmenu_exit/spr_helpmenu_exit.yy",
   },
   "spriteMaskId":null,
   "visible":true,
