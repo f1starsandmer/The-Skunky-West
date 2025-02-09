@@ -61,9 +61,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"menu","path":"rooms/menu/menu.yy",},},
-    {"children":[
-        {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
-      ],"groupName":"Levels",},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
