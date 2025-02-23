@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_CreditsButton",
+  "%Name":"obj_previous",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_CreditsButton",
+  "name":"obj_previous",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu",
-    "path":"folders/Objects/Menu.yy",
+    "name":"Misc",
+    "path":"folders/Objects/Misc.yy",
   },
   "parentObjectId":{
     "name":"Obj_ButtonParent",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_CreditsButton",
-    "path":"sprites/Spr_CreditsButton/Spr_CreditsButton.yy",
+    "name":"Spr_Previous",
+    "path":"sprites/Spr_Previous/Spr_Previous.yy",
   },
   "spriteMaskId":null,
   "visible":true,

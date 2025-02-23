@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_CreditsButton",
+  "%Name":"obj_text_parent",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_CreditsButton",
+  "name":"obj_text_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu",
-    "path":"folders/Objects/Menu.yy",
+    "name":"Story Text",
+    "path":"folders/Fonts/Story Text.yy",
   },
-  "parentObjectId":{
-    "name":"Obj_ButtonParent",
-    "path":"objects/Obj_ButtonParent/Obj_ButtonParent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Spr_CreditsButton",
-    "path":"sprites/Spr_CreditsButton/Spr_CreditsButton.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
