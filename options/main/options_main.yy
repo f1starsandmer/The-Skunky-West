@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "$GMMainOptions":"v3",
+=======
+  "$GMMainOptions":"v1",
+>>>>>>> parent of 0461403 (git_pull)
   "%Name":"Main",
   "name":"Main",
   "option_audio_error_behaviour":true,
