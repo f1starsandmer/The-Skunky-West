@@ -38,7 +38,11 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
+<<<<<<< Updated upstream
     "IDEVersion":"2024.2.0.132",
+=======
+    "IDEVersion":"2024.11.0.179",
+>>>>>>> Stashed changes
   },
   "name":"The Skunky West",
   "resources":[
@@ -53,11 +57,6 @@
     {"id":{"name":"Obj_PlayButton","path":"objects/Obj_PlayButton/Obj_PlayButton.yy",},},
     {"id":{"name":"obj_previous","path":"objects/obj_previous/obj_previous.yy",},},
     {"id":{"name":"obj_text_parent","path":"objects/obj_text_parent/obj_text_parent.yy",},},
-    {"id":{"name":"Basic_Grass_Tileset","path":"sprites/Basic_Grass_Tileset/Basic_Grass_Tileset.yy",},},
-    {"id":{"name":"Grass_Flower_Tileset","path":"sprites/Grass_Flower_Tileset/Grass_Flower_Tileset.yy",},},
-    {"id":{"name":"Grass_Mushroom_Tileset","path":"sprites/Grass_Mushroom_Tileset/Grass_Mushroom_Tileset.yy",},},
-    {"id":{"name":"Road_Asphalt_Tileset","path":"sprites/Road_Asphalt_Tileset/Road_Asphalt_Tileset.yy",},},
-    {"id":{"name":"Sidewalk_Tileset","path":"sprites/Sidewalk_Tileset/Sidewalk_Tileset.yy",},},
     {"id":{"name":"obj_text1","path":"objects/obj_text1/obj_text1.yy",},},
     {"id":{"name":"obj_text2","path":"objects/obj_text2/obj_text2.yy",},},
     {"id":{"name":"obj_text3","path":"objects/obj_text3/obj_text3.yy",},},
@@ -79,6 +78,11 @@
     {"id":{"name":"seq_credits","path":"sequences/seq_credits/seq_credits.yy",},},
     {"id":{"name":"seq_help","path":"sequences/seq_help/seq_help.yy",},},
     {"id":{"name":"seq_menu","path":"sequences/seq_menu/seq_menu.yy",},},
+    {"id":{"name":"Basic_Grass_Tileset","path":"sprites/Basic_Grass_Tileset/Basic_Grass_Tileset.yy",},},
+    {"id":{"name":"Grass_Flower_Tileset","path":"sprites/Grass_Flower_Tileset/Grass_Flower_Tileset.yy",},},
+    {"id":{"name":"Grass_Mushroom_Tileset","path":"sprites/Grass_Mushroom_Tileset/Grass_Mushroom_Tileset.yy",},},
+    {"id":{"name":"Road_Asphalt_Tileset","path":"sprites/Road_Asphalt_Tileset/Road_Asphalt_Tileset.yy",},},
+    {"id":{"name":"Sidewalk_Tileset","path":"sprites/Sidewalk_Tileset/Sidewalk_Tileset.yy",},},
     {"id":{"name":"Spr_CreditsButton","path":"sprites/Spr_CreditsButton/Spr_CreditsButton.yy",},},
     {"id":{"name":"Spr_CreditsMenu","path":"sprites/Spr_CreditsMenu/Spr_CreditsMenu.yy",},},
     {"id":{"name":"Spr_ExitButton","path":"sprites/Spr_ExitButton/Spr_ExitButton.yy",},},
